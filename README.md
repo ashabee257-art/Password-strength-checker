@@ -57,42 +57,6 @@ Password-Strength-Checker/
 └── requirements.txt
 ```
 
-## ▶️ How to Run
-
-### Step 1: Install Python
-
-Make sure Python is installed on your computer.
-
-### Step 2: Open the Project
-
-Open the project folder in **VS Code**.
-
-### Step 3: Run the Program
-
-Open the VS Code terminal and run:
-
-```bash
-python password_strength_checker.py
-```
-
-### Step 4: Enter a Password
-
-Enter a password when prompted. The program will analyze it and display its strength.
-
-## 🧪 Example
-
-```text
-Enter your password: Asha@2026Secure!
-
-Password Strength: Very Strong
-
-Suggestions:
-✓ Good password length
-✓ Contains uppercase letters
-✓ Contains lowercase letters
-✓ Contains numbers
-✓ Contains special characters
-```
 
 ## 🔒 Cybersecurity Relevance
 
